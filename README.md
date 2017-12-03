@@ -19,8 +19,8 @@ The accelerating pace of digital change means that new tools are constantly bein
 and human rights instruments.
 
 Canada is looking to partner more closely with leading innovators in Canada and abroad to help address accessibility issues specifically relating to: 
-- Documents on the Open by Default Pilot Portal, which is housed on the open government 
-website, Open.canada.ca (“Open Government website”) as described in Attachment 3; and 
+
+- Documents on the Open by Default Pilot Portal, which is housed on the open government website, Open.canada.ca (“Open Government website”) as described in Attachment 3; and 
 - Searching for and applying to federal government jobs as described in Attachment 4. 
 
 ### 2.1 EXISTING WEB STANDARDS, GUIDANCE, AND RESOURCES
@@ -125,31 +125,48 @@ An overriding principle of the industry consultation is that it be conducted wit
 
 The following terms and conditions apply to the Consultative Process. In order to encourage open dialogue, 
 Participants agree to:
+
 a. Discuss their views concerning the requirement and to provide positive resolutions to the issues in question. Everyone will have equal opportunity to share their ideas and suggestions;
+
 b. NOT reveal or discuss any information to the MEDIA/NEWSPAPER regarding the requirement during this consultative process. Any Media questions will be directed to the PWGSC Media Relations Office at 819-956-2313;
+
 c. Throughout the entire Consultative Process, all questions from industry, exchanges of information and all the industry feedback must be provided in writing to the Contracting Authority. In accordance with and subject to the Access to information Act, R.S., 1985, c. A-1, and any other legislative or legal requirement, all information which is provided by a Participant and which is clearly marked as “Proprietary” will not be released or disclosed;
+
 d. Canada is not obligated to issue any CFP, or to negotiate any contract for the requirement;
+
 e. If Canada does release a CFP, the terms and conditions of the CFP will be subject to Canada's absolute discretion;
+
 f. The information gathered from the written responses will be summarized and provided to all Participants, with the exception of proprietary or confidential materials;
+
 g. Canada will not reimburse any person or entity for any cost incurred in participating in this consultative process;
+
 h. Participation in this Consultative Process will not be a mandatory requirement for any subsequent CFP. An entity will not be precluded from submitting an proposal under any subsequent CFP on account of they not being a Participant;
+
 i. A Draft Statement of Work will be available to industry. 
+
 j. At any point within this process, a Participant may provide notice to the Contracting Authority that they no longer wish to participate in the Consultative Process. 
+
 k. Failure to agree to and sign the Rules of Engagement Participation Agreement will result in the exclusion from participation in the consultative process. This Rules of Engagement Participation Agreement must be signed by a duly authorized officer of the Participant in this respect; 
+
 l. A dispute resolution process to manage impasses throughout this Consultative Process must be adhered to as follows:
 
 
 ## DISPUTE RESOLUTION PROCESS 
 
 1. By informal discussion and good faith negotiation, each of the parties must make all reasonable efforts to resolve any dispute, controversy or claim arising out of or in any way connected with this Consultative Process.
+
 2. Any dispute between the Parties of any nature arising out of or in connection with this Consultative Process must be resolved by the following process:
+
 a. Any such dispute must first be referred to the Participant's Representative and the PWGSC Manager managing the Consultative Process. The parties will have 3 Business Days in which to resolve the dispute.
+
 b. In the event the representatives of the Parties specified in Article 2.a. above are unable to resolve the dispute, it will be referred to the Participant's Project Director and the PWGSC Seni or Direct or of the Division responsible to manage the Consultative Process. The parties will have 3 Business Days to resolve the dispute.
+
 c. In the event the representatives of the Parties specified in Article 2.b. above are unable to resolve the dispute, 
 it will be referred to the Participant's President and the PWGSC Director General, who will have 3 Business Days to resolve the dispute.
-d. In the event the representatives of the Parties specified in Article 2.c. above are unable to resolve the dispute, it will be referred to the Participant's CEO and the PWGSC Assistant Deputy Minister, Acquisitions Branch who will have 10 Business Days to resolve the dispute.
-e. In the event the representatives of the Parties specified in Article 2.d. above are unable to resolve the dispute, the Contracting Authority will within 5 Business Days render a written decision which will include a detailed description of the dispute and the reasons supporting the Contracting Authority's decision. The Contracting Authority will deliver a signed copy thereof to the Participant.
 
+d. In the event the representatives of the Parties specified in Article 2.c. above are unable to resolve the dispute, it will be referred to the Participant's CEO and the PWGSC Assistant Deputy Minister, Acquisitions Branch who will have 10 Business Days to resolve the dispute.
+
+e. In the event the representatives of the Parties specified in Article 2.d. above are unable to resolve the dispute, the Contracting Authority will within 5 Business Days render a written decision which will include a detailed description of the dispute and the reasons supporting the Contracting Authority's decision. The Contracting Authority will deliver a signed copy thereof to the Participant.
 
 By signing this document, the individual represents that he/she has full authority to bind the company listed below and that the individual and the company agree to be bound by all the terms and conditions contained herein.
 
@@ -213,12 +230,17 @@ Respondents are requested to clearly identify those portions of their response t
 ### SECTION 2: REQUIREMENT
 
 1. Currently, three weeks have been allotted between when the c ont rac t ors are invited to present and the date of presentation. At this time, the presentation is expected to include a demonstration of a working prototype of the proposed Solution (i.e., a preliminary version of the Solution with basic functionality).
+
 a. We are seeking feedback from potential bidders as to whether three weeks is enough time to develop a working prototype for the presentation. 
+
 b. We are seeking feedback from potential bidders as to whether three weeks $15,000 is an appropriate amount to develop a working prototype as described above.
+
 c. We are seeking feedback from potential bidders as to whether the description of the working prototype is sufficiently clear to prepare the demonstration? 
 
 2. In your view, are the challenges presented in the Letter of Interest technically feasible?
+
 3. Do you have concerns with any of the proposed deliverables in either of the Statements of Work?
+
 4. Please provide any additional feedback that you have.
 
 
@@ -321,12 +343,19 @@ Due date: Within 15 working days of Contract award
 The Contractor must provide a Financial Proposal for Phases 2 and 3 of the Work in accordance with Annex B, Basis of Payment. The Financial Proposal for Phases 2 and 3 will be subject to negotiation with Canada. Upon Canada’s request, the Contractor must provide Price Support for the Financial Proposal for Phases 2 and 3, which may include; a current published price list indicating the percentage discount available to Canada; or copies of paid invoices for the like quality and quantity of the goods, services or both sold to other customers; or price or rate certifications; or any other supporting documentation as requested by Canada. 
 
 The Financial Proposal for Phases 2 and 3 must include the following information, as applicable, for each element of the Work:
+
 a) Labour: For each individual and (or) labour category to be assigned to the Work, indicate: i) the hourly rate, inclusive of overhead and profit; and ii) the estimated number of hours. 
+
 b) Materials and Supplies: Identify each category of materials and supplies required to complete the Work and provide the pricing basis.
+
 c) Subcontracts: Identify any proposed subcontractor and provide for each one the same price breakdown information as contained in this article. 
+
 d) Other Direct Charges: Identify any other direct charges anticipated, such as long distance communications and rentals, and provide the pricing basis.
+
 e) Profit: Identify proposed profit, if any, and the basis on which it is computed and applied. 
+
 f) Overhead: State the applicable overhead.
+
 g) Applicable Tax: Identify any Applicable Tax separately.
 
 ##### 4.1.3.1 Deliverable(s)
@@ -342,13 +371,21 @@ Due date: Within 15 working days of Contract award
 ##### 4.2.1.1 Test Plan
 
 The Contractor must provide a Test Plan to the Technical Authority following commencement of Phase 2. The test plan must demonstrably exercise all new functionality of the Solution. The Test Plan must be in the form of a MS Excel spreadsheet that documents each test case, and include, at a minimum:
+
 a. A test case number;
+
 b. Step-by-step instructions for testers to complete each test case;
+
 c. Success criteria for each test case;
+
 d. Description of the functionality the test case addresses;
+
 e. Fields next to each test case for testers to compile testing notes/results;
+
 f. Test data;
+
 g. Exit criteria; and 
+
 h. The test plan must be in a .pdf, .odf, or .docx document for addition to the Canadian Open Government CKAN.
 
 ##### 4.2.1.2 Baseline testing
@@ -366,10 +403,15 @@ Evidence of user testing, debugging, testing for accessibility and security, and
 updated Design and Implementation Plan (if applicable) must be provided to the Technical Authority for approval.
 
 ##### 4.2.1.5 Deliverable(s):
+
 1. Test Plan,
+
 2. Defect Debugging Report, 
+
 3. Evidence of baseline testing, debugging, and resolution of compliance testing issues,
+
 4. Updated Design and Implementation Plan (if applicable), 
+
 5. Updated Source Code (if applicable).
  
 Due date: To be determined in accordance with the Contractor’s Design and Implementation Plan.
@@ -391,11 +433,17 @@ As a final test the Contractor must provide instructions and the updated source 
 In accordance with timelines to be established in the Design and Implementation Plan, The Technical Authority will provide detailed feedback to the Contractor on any issues revealed by its own integration testing. The Contractor must resolve the issues revealed and resubmit the updated source code to the Technical Authority for re-testing.
 
 ##### 4.2.2.3 Deliverable(s):
+
 1. Automated Unit Testing Report,
+
 2. Contractor’s Integrated Testing Results Report,
+
 3. Installation and Testing Instructions,
+
 4. Evidence of unit testing and integration testing;
+
 5. Updated Design and Implementation Plan (if applicable),
+
 6. Updated source code (if applicable)
 
 Due Date: To be determined in accordance with the Contractor’s Design and Implementation Plan.
@@ -459,12 +507,19 @@ The Open Government website operates using the following open source tools, in c
 - PostgreSQL (Relational Database Management System - Licensed under the Postgresql License.
 
 Government of Canada’s Web Experience Toolkit Relevant Policies to Canada’s Web Presence (available at https://www.tbs-sct.gc.ca/pol/index-eng.aspx): 
+
 1. Directive on the Management of Communications
+
 2. Directive on Official Languages for Communications and Services
+
 3. Standard on Web Accessibility
+
 4. Standard on Web Interoperability
+
 5. Standard on Web Usability
+
 6. Standard on Optimizing Websites and Applications for Mobile Devices
+
 7. Guidance on Implementing the Standard on Web Accessibility
 
 The Open Government website is currently housed on a mix of cloud and on premise infrastructure. Solutions must be compatible with infrastructure hosted on the Microsoft (MS) Azure cloud in the Canada Central or Canada East availability regions.
